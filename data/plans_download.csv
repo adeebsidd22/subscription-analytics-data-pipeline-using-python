@@ -1,0 +1,4 @@
+plan_id,plan_name,plan_type,price,billing_cycle
+1,Basic Monthly,Monthly,499,1
+2,Standard Quarterly,Quarterly,1299,3
+3,Premium Annual,Annual,3999,12
